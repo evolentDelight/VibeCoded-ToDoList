@@ -1,0 +1,13 @@
+{
+  "name": "vibecoded-todolist",
+  "version": "1.0.0",
+  "private": true,
+  "description": "To-Do List app with React, Node.js, and export/import",
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "dev:backend": "cd backend && node server.js",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && node server.js"
+  }
+}
