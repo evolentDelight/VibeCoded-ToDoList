@@ -10,6 +10,7 @@ Build a complete to-do app using strictly JavaScript, React, Node.js, and Render
 ```
 
 ---
+## AI Generated
 
 A full-stack to-do app built with **JavaScript**, **React**, **Node.js**, and deployable on **Render**. Includes export/import of tasks in CSV, JSON, and XML formats.
 
